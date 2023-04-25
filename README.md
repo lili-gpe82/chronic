@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add type hinting to explorer.py (#7388)
