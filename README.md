@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
