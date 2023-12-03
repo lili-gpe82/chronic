@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
