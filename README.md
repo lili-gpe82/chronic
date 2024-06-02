@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add plot_images conf_thresh parameter (#8446)
