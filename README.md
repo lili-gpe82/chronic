@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+fix yolo classify model loading error (#9196)
