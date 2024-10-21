@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+OBB: Fix plot_images (#7592)
